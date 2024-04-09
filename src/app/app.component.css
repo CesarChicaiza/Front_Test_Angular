@@ -1,0 +1,13 @@
+.title {
+
+  text-align: center;
+  padding: 30px;
+  background-color: #666;
+  color: white;
+}
+.container {
+  margin: 0 20%;
+}
+table{
+  width: 100%;
+}

@@ -1,1 +1,31 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.title {
+
+  text-align: center;
+  padding: 30px;
+  background-color: #666;
+  color: white;
+}
+.container {
+  margin: 0 20%;
+}
+table{
+  width: 100%;
+}
+
+.card {
+  margin-top: 10px;
+}
+
+.mat-form-field {
+  width: 100%;
+  margin: 5px;
+}
+
+.btnAceptar {
+  margin-right: 5px;
+}
+
